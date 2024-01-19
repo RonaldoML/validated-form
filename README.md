@@ -1,2 +1,2 @@
 # validated-form
-Form validated with Formik and Ypu
+Form validated with Formik and Yup
